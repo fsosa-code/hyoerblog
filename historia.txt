@@ -1,1 +1,20 @@
-Esto es un archivo de code
+Para usar git y decirle que donde estoy parado es el directorio raíz, es:
+git init
+
+Para ver el status es
+git status
+
+Para añadir un archivo es
+git add <nombre del archivo>
+
+para removerlo
+git rm <nombre del archivo>
+
+Para darle commit
+git commit -m "comentario"
+
+para ver configuración
+git config --list
+
+Para cambiar configuración en este caso nombre de usuario
+git config --global user.name "Francisco Sosa"
