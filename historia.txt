@@ -18,3 +18,5 @@ git config --list
 
 Para cambiar configuración en este caso nombre de usuario
 git config --global user.name "Francisco Sosa"
+
+quizá valdría la pena conseguir un manual.
