@@ -1,5 +1,5 @@
 Para usar git y decirle que donde estoy parado es el directorio raíz, es:
-git init
+git init.
 
 Para ver el status es
 git status
